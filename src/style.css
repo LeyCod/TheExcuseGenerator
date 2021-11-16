@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #d49b6a;
+}
+
+div .container-p {
+  margin: 50px 0 50px 0;
+  display: flex;
+  justify-content: center;
+}
+.container-p p {
+  padding: 20px 15px;
+  color: white;
+  background: #671140;
+  border-radius: 5px;
+  border: 2px outset #450026;
+}
